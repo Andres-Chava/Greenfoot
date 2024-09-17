@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cohetico
+comment0.text=\r\n\ Nave\ que\ dispara\ los\ proyectiles.\r\n\ \r\n\ @author\ Andr\u00E9s\ Chavarriaga\r\n\ @email\:\ andrescamilochg11@gmail.com\r\n\ @version\ v0.1.2\r\n
+comment1.params=
+comment1.target=Cohetico()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ movimiento()
+comment4.params=
+comment4.target=void\ dispararProyectil()
+numComments=5
